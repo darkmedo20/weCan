@@ -1,4 +1,4 @@
-# MySimpleProject
+# weCan !
 
 This is a simple .NET console application that prints "Hello, GitHub!" to the console.
 
